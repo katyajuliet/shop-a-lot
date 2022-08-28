@@ -2,7 +2,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Link to Deployed Application
+[repo](https://github.com/katyajuliet/shop-a-lot)
 
+[Deployed](https://shop-a-lot-redux.herokuapp.com/)
 
 ## Table of Contents
 * [Description](#description)
